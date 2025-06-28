@@ -1,0 +1,6 @@
+VIM
+1. :wq to save
+2. :wq! to override
+3. :q! to exit without saving 
+
+sudo superuser used for all privileges granted 
