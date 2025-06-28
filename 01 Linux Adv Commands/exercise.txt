@@ -1,0 +1,2 @@
+this is an exercise.txt for my text editor project
+this is me using nano text editor 

@@ -89,20 +89,20 @@ BELOW ARE LINUX ADVANCED COMMANDS AND ARE SHOWN IN THE SCREENSHOTS AS FOLLOWS
 IN LINUX THERE ARE TWO BASIC FILE EDITORS WHICH ARE; VIM TEXT EDITOR AND NANO TEXT EDITOR.
 THE FOLLOWING SHOWS HOW THE VIM AND NANO TEXT EDITORS ARE ACCESSED ON THE TERMINAL 
 
-* sudo touch web.html
-![sudotouchwebhtml](./img/27-webhtml.png)
+* sudo touch exercise.txt
+![sudotouchexercisetxt](./img/47.touchexercisetxt.png)
 
-* vim web.html
-![vimwebhtml](./img/36.vimwebhtml.png)
+* vim exercise.txt
+![vimexercisetxt](./img/46.vimexercisetxt.png)
 
-* :wq! 
-![wq](./img/37.wq.png)
+* :wq
+![wq](./img/46.vimexercisetxt.png)
 
-* nano web.html
-![nanowebhtml](./img/38.nanowebhtml.png)
+* nano exercise.txt
+![nanoexercise.txt](./img/49.nanotxteditor.png)
 
 * ctrl o, Enter, ctrl x, N
-![ctrlo](./img/39.nanoeditor-O.png)
+![ctrlo](./img/48.nanotxteditor.png)
 
  
 
