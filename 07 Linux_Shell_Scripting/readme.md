@@ -26,6 +26,9 @@ Perfect for **learning Bash**, **teaching math**, or **quick reference**.
 ---
 
 
+## Multiplication Table Script
+Run the script in your terminal using this command: "./multiplication_table.sh"
+![multiplication_table_script](./multiplication_table.sh)
 
 ## Screenshot
 #### Multiplication Table Script
