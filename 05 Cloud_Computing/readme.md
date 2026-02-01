@@ -100,24 +100,26 @@
 
 ![04n.vm_deleted](./img/04n.vm_deleted.png)
 
-[05.s3_public_access](./img/05.s3_public_access.png)
+## S3 Version
 
-[05b.s3_versioning](./img/05b.s3_versioning.png)
+![05.s3_public_access](./img/05.s3_public_access.png)
 
-[05c.object_uploaded](./img/05c.object_uploaded.png)
+![05b.s3_versioning](./img/05b.s3_versioning.png)
 
-[05d.access_denied](./img/05d.access_denied.png)
+![05c.object_uploaded](./img/05c.object_uploaded.png)
 
-[05e.s3_versioning](./img/05e.s3_versioning.png)
+![05d.access_denied](./img/05d.access_denied.png)
 
-[05f.lifecycle](./img/05f.lifecycle.png)
+![05e.s3_versioning](./img/05e.s3_versioning.png)
 
-[05G.lifecycle_creation](./img/05G.lifecycle_rule_creation.png)
+![05f.lifecycle](./img/05f.lifecycle.png)
 
-[05h.lifecycle_created](./img/05h.lifecycle_rule_created.png)
+![05G.lifecycle_creation](./img/05G.lifecycle_rule_creation.png)
 
-[05i.bucket_policy](./img/05i.bucket_policy.png)
+![05h.lifecycle_created](./img/05h.lifecycle_rule_created.png)
 
-[05j.json_policy](./img/05j.json_policy_file.png)
+![05i.bucket_policy](./img/05i.bucket_policy.png)
 
-[05k.deleted_bucket](./img/05k.deleted_bucket.png)
+![05j.json_policy](./img/05j.json_policy_file.png)
+
+![05k.deleted_bucket](./img/05k.deleted_bucket.png)
